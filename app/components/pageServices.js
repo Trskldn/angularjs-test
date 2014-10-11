@@ -16,23 +16,25 @@ angular.module('pageServices', [])
 		remove: function(id) {
 			return $q.when(dataLoaded, function() {
 				return _.remove(_data, function(item) { return item[_idAttr] == id; });
-		 	});
+			});
 		},
+
 		save: function(item) {
 
 		},
+
 		'get': function(id) {
 			return $q.when(dataLoaded, function() {
 				return _.filter(_data, function(item) {
 					return item[_idAttr] == id;
 				})[0];
-		 	});
+			});
 		},	
+
 		query: function() {
-	 		return $q.when(dataLoaded, function() {
-	 			console.log(_data);
-	 	 			return _data;
-			 	});
+			return $q.when(dataLoaded, function() {
+					return _data;
+				});
 		}
 	};
 }]);
