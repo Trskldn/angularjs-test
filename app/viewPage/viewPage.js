@@ -4,8 +4,8 @@ angular.module('viewPage', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/page/:pageId', {
-    templateUrl: 'viewPage/viewPage.html',
-    controller: 'viewPageCtrl'
+	templateUrl: 'viewPage/viewPage.html',
+	controller: 'viewPageCtrl'
   });
 }])
 
@@ -14,12 +14,12 @@ angular.module('viewPage', ['ngRoute'])
 
 	Pages.get(pageId).then(function(page) {
 		if (page) $scope.page = page;
-        else $location.path('/');
+		else $location.path('/');
 	});
 
 	$scope.deletePage = function() {
-		 Pages.remove(pageId).then(function() {
-            $location.path('/');
-        });
+		Pages.remove(pageId).then(function() {
+			$location.path('/');
+		});
 	}
 });

@@ -4,8 +4,8 @@ angular.module('pagesList', ['ngRoute', 'pageServices'])
 
 .config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/', {	
-    templateUrl: 'pagesList/pagesList.html',
-    controller: 'pagesListCtrl'
+	templateUrl: 'pagesList/pagesList.html',
+	controller: 'pagesListCtrl'
   });
 }])
 	

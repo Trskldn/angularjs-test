@@ -5,8 +5,7 @@ angular.module('myApp', [
   'ngRoute',
   // 'ngResource',
   'viewPage',
-  'pagesList',
-  'pageServices'
+  'pagesList'
 ]).
 config(['$routeProvider', function($routeProvider) {
   $routeProvider.otherwise({redirectTo: '/'});
