@@ -1,0 +1,989 @@
+[{
+        "url": "http:\/\/www.nytimes.com\/interactive\/2014\/10\/03\/magazine\/01-brown-sisters-forty-years.html",
+        "column": "",
+        "section": "Magazine",
+        "byline": "Photographs by NICHOLAS NIXON",
+        "title": "Forty Portraits in Forty Years",
+        "abstract": "The Brown sisters have been photographed every year since 1975. The latest image in the series is published here for the first time.",
+        "published_date": "2014-10-03",
+        "source": "The New York Times",
+        "asset_id": "100000003148808",
+        "total_shares": 1,
+        "des_facet": ["PHOTOGRAPHY"],
+        "org_facet": "",
+        "per_facet": ["NIXON, NICHOLAS"],
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "",
+            "caption": "1975, New Canaan, Conn.",
+            "copyright": "",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/magazine\/05thebrownsisters_ss-slide-ZKLJ\/05thebrownsisters_ss-slide-ZKLJ-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/magazine\/05thebrownsisters_ss-slide-ZKLJ\/05thebrownsisters_ss-slide-ZKLJ-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/magazine\/05thebrownsisters_ss-slide-ZKLJ\/05thebrownsisters_ss-slide-ZKLJ-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/interactive\/2014\/10\/08\/magazine\/eaters-all-over.html",
+        "column": "",
+        "section": "Magazine",
+        "byline": "Photographs by HANNAH WHITAKER",
+        "title": "What Kids Around the World Eat for Breakfast",
+        "abstract": "What do kids around the world eat for breakfast? It\u2019s as likely to be coffee or kimchi as it is a sugary cereal.",
+        "published_date": "2014-10-08",
+        "source": "The New York Times",
+        "asset_id": "100000003161103",
+        "total_shares": 2,
+        "des_facet": ["CHILDREN AND CHILDHOOD", "FOOD"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["TOKYO (JAPAN)", "ISTANBUL (TURKEY)", "PARIS (FRANCE)", "MALAWI", "REYKJAVIK (ICELAND)", "AMSTERDAM (NETHERLANDS)", "SAO PAULO (BRAZIL)"],
+        "media": [{
+            "type": "image",
+            "subtype": "",
+            "caption": "Tiago Bueno Young, 3 years old, S&atilde;o Paulo, Brazil.",
+            "copyright": "Hannah Whitaker for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/magazine\/12EatersAllOver-ss-slide-NOCA\/12EatersAllOver-ss-slide-NOCA-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/magazine\/12EatersAllOver-ss-slide-NOCA\/12EatersAllOver-ss-slide-NOCA-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/magazine\/12EatersAllOver-ss-slide-NOCA\/12EatersAllOver-ss-slide-NOCA-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/04\/your-money\/beware-of-shifting-options-within-medicare-plans.html",
+        "column": "Your Money",
+        "section": "Your Money",
+        "byline": "By TARA SIEGEL BERNARD",
+        "title": "Beware of Shifting Options Within Medicare Plans",
+        "abstract": "Open enrollment for Medicare starts Oct. 15, and offers older Americans a dizzying array of health care options.",
+        "published_date": "2014-10-04",
+        "source": "The New York Times",
+        "asset_id": "100000003154506",
+        "total_shares": 3,
+        "des_facet": ["MEDICARE", "PERSONAL FINANCES", "HEALTH INSURANCE AND MANAGED CARE", "DRUGS (PHARMACEUTICALS)"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Robert Neubecker",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/04\/your-money\/04money\/04money-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/04\/your-money\/04money\/04money-thumbLarge-v2.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/04\/your-money\/04money\/04money-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Elizabeth Cooper of Birmingham, Ala., has a history of skin cancer. She changed her plan because she worried about unanticipated medical costs.",
+            "copyright": "Gary Tramontina for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/04\/business\/04money-jp\/04money-jp-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/04\/business\/04money-jp\/04money-jp-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/04\/business\/04money-jp\/04money-jp-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/well.blogs.nytimes.com\/2014\/10\/06\/when-gluten-sensitivity-isnt-celiac-disease\/",
+        "column": "Well",
+        "section": "Health",
+        "byline": "By JANE E. BRODY",
+        "title": "When Gluten Sensitivity Isn't Celiac Disease",
+        "abstract": "A growing body of research indicates that many people who react to gluten may be suffering a condition called non-celiac gluten sensitivity, or NCGS.",
+        "published_date": "2014-10-06",
+        "source": "The New York Times",
+        "asset_id": 24,
+        "total_shares": 4,
+        "des_facet": ["CELIAC DISEASE", "GLUTEN", "RESEARCH"],
+        "org_facet": ["MAYO CLINIC", "MONASH UNIVERSITY"],
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/08\/science\/07brody\/07brody-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }]
+        }]
+    }, {
+        "url": "http:\/\/well.blogs.nytimes.com\/2014\/10\/06\/better-ways-to-learn\/",
+        "column": "Well",
+        "section": "Health",
+        "byline": "By TARA PARKER-POPE",
+        "title": "Better Ways to Learn",
+        "abstract": "Getting a good grade doesn&#8217;t mean you retained the information. In his book, Benedict Carey offers better ways than cramming for you to hold on to knowledge.",
+        "published_date": "2014-10-06",
+        "source": "The New York Times",
+        "asset_id": 24,
+        "total_shares": 5,
+        "des_facet": ["BRAIN", "EDUCATION", "MEMORY", "TESTS AND EXAMINATIONS"],
+        "org_facet": ["EDUCATIONAL TESTING SERVICE"],
+        "per_facet": ["CAREY, BENEDICT"],
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/science\/07WELL\/07WELL-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/interactive\/2014\/07\/31\/world\/africa\/ebola-virus-outbreak-qa.html",
+        "column": "",
+        "section": "World",
+        "byline": "",
+        "title": "Ebola Facts: How Many Patients Are Being Treated Outside of West Africa?",
+        "abstract": "Questions and answers on the scale of the outbreak and the science of the Ebola virus.",
+        "published_date": "2014-07-31",
+        "source": "The New York Times",
+        "asset_id": "100000003032739",
+        "total_shares": 6,
+        "des_facet": ["EBOLA VIRUS"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["AFRICA"],
+        "media": [{
+            "type": "image",
+            "subtype": "",
+            "caption": "",
+            "copyright": "",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/01\/international-home\/ebola-virus-promoimage\/ebola-virus-promoimage-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/01\/international-home\/ebola-virus-promoimage\/ebola-virus-promoimage-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/01\/international-home\/ebola-virus-promoimage\/ebola-virus-promoimage-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/05\/opinion\/sunday\/the-best-possible-day.html",
+        "column": "Opinion",
+        "section": "Opinion",
+        "byline": "By ATUL GAWANDE",
+        "title": "The Best Possible Day",
+        "abstract": "If you are dying, how do you want to spend your time? The answer is not always obvious.",
+        "published_date": "2014-10-05",
+        "source": "The New York Times",
+        "asset_id": "100000003156473",
+        "total_shares": 7,
+        "des_facet": ["HOSPICE CARE", "DEATH AND DYING"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Guy Le Querrec\/Magnum Photos",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/sunday-review\/1005GAWANDE\/1005GAWANDE-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/sunday-review\/1005GAWANDE\/1005GAWANDE-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/sunday-review\/1005GAWANDE\/1005GAWANDE-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/interactive\/2014\/10\/02\/magazine\/mag-oil-lawsuit.html",
+        "column": "",
+        "section": "Magazine",
+        "byline": "By NATHANIEL RICH",
+        "title": "The Most Ambitious Environmental Lawsuit Ever",
+        "abstract": "A quixotic historian tries to hold oil and gas companies responsible for Louisiana\u2019s disappearing coast.",
+        "published_date": "2014-10-02",
+        "source": "The New York Times",
+        "asset_id": "100000003153933",
+        "total_shares": 8,
+        "des_facet": ["OIL (PETROLEUM) AND GASOLINE", "HURRICANE KATRINA (2005)", "COASTAL AREAS"],
+        "org_facet": "",
+        "per_facet": ["BARRY, JOHN M"],
+        "geo_facet": ["LOUISIANA"],
+        "media": [{
+            "type": "image",
+            "subtype": "",
+            "caption": "A refinery and wetlands near Myrtle Grove, La.",
+            "copyright": "Jeff Riedel for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/magazine\/oillawsuit-slide-1LU7\/oillawsuit-slide-1LU7-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/magazine\/oillawsuit-slide-1LU7\/oillawsuit-slide-1LU7-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/magazine\/oillawsuit-slide-1LU7\/oillawsuit-slide-1LU7-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/07\/us\/denying-review-justices-clear-way-for-gay-marriage-in-5-states.html",
+        "column": "",
+        "section": "U.S.",
+        "byline": "By ADAM LIPTAK",
+        "title": "Supreme Court Delivers Tacit Win to Gay Marriage",
+        "abstract": "The Supreme Court let stand appeals court rulings allowing same-sex marriage in five states in a move that may signal the inevitability of a nationwide right to such unions.",
+        "published_date": "2014-10-07",
+        "source": "The New York Times",
+        "asset_id": "100000003159984",
+        "total_shares": 9,
+        "des_facet": ["SAME-SEX MARRIAGE, CIVIL UNIONS AND DOMESTIC PARTNERSHIPS"],
+        "org_facet": ["SUPREME COURT (US)"],
+        "per_facet": "",
+        "geo_facet": ["INDIANA", "OKLAHOMA", "UTAH", "WISCONSIN", "VIRGINIA"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tammy and Sylvia Torres wed in Fredericksburg, Va., as marriages began in five states.",
+            "copyright": "Reza A. Marvashti\/The Free Lance-Star, via Associated Press",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/MARRIAGE\/MARRIAGE-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/MARRIAGE\/MARRIAGE-thumbLarge-v2.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/MARRIAGE\/MARRIAGE-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Protesters outside the Supreme Court. Opponents of same-sex marriage expressed frustration.",
+            "copyright": "Alex Wong\/Getty Images",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/JP-MARRIAGE\/JP-MARRIAGE-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/JP-MARRIAGE\/JP-MARRIAGE-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/us\/JP-MARRIAGE\/JP-MARRIAGE-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/09\/opinion\/bill-maher-isnt-the-only-one-who-misunderstands-religion.html",
+        "column": "Op-Ed Contributor",
+        "section": "Opinion",
+        "byline": "By REZA ASLAN",
+        "title": "Bill Maher Isn\u2019t the Only One Who Misunderstands Religion",
+        "abstract": "In Islam and other faiths, religion is more often a matter of culture and identity than beliefs and practices.",
+        "published_date": "2014-10-09",
+        "source": "The New York Times",
+        "asset_id": "100000003165960",
+        "total_shares": 10,
+        "des_facet": ["RELIGION AND BELIEF", "MUSLIMS AND ISLAM", "SOCIAL CONDITIONS AND TRENDS"],
+        "org_facet": ["ISLAMIC STATE IN IRAQ AND SYRIA (ISIS)"],
+        "per_facet": ["MAHER, BILL"],
+        "geo_facet": "",
+        "media": ""
+    }, {
+        "url": "http:\/\/www.nytimes.com\/interactive\/2014\/10\/03\/upshot\/ncaa-football-fan-map.html",
+        "column": "",
+        "section": "The Upshot",
+        "byline": "By TOM GIRATIKANON, JOSH KATZ, DAVID LEONHARDT, KEVIN QUEALY and MARC TRACY",
+        "title": "N.C.A.A. Fan Map: How the Country Roots for College Football",
+        "abstract": "Twice so far at the Upshot, we\u2019ve published maps showing where fan support for one team begins and another ends \u2014 once for baseball and once for basketball. Now we\u2019re pleased to offer another one: the United States according to college football fans.",
+        "published_date": "2014-10-03",
+        "source": "The New York Times",
+        "asset_id": "100000003152907",
+        "total_shares": 11,
+        "des_facet": ["FOOTBALL (COLLEGE)"],
+        "org_facet": ["SOUTHEASTERN CONFERENCE", "BIG TEN CONFERENCE"],
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "",
+            "caption": "",
+            "copyright": "",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/upshot\/ncaa-football-fan-map-1412317892993\/ncaa-football-fan-map-1412317892993-thumbStandard-v7.png",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/upshot\/ncaa-football-fan-map-1412317892993\/ncaa-football-fan-map-1412317892993-thumbLarge-v7.png",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/03\/upshot\/ncaa-football-fan-map-1412317892993\/ncaa-football-fan-map-1412317892993-mediumThreeByTwo210-v6.png",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/07\/science\/our-understanding-of-giraffes-does-not-measure-up.html",
+        "column": "",
+        "section": "Science",
+        "byline": "By NATALIE ANGIER",
+        "title": "Our Understanding of Giraffes Does Not Measure Up ",
+        "abstract": "Giraffes may be popular &#8212; a staple of zoos, corporate logos and the plush toy industry &#8212; but until recently almost nobody studied giraffes in the field so there is much we don&#8217;t know about them.",
+        "published_date": "2014-10-07",
+        "source": "The New York Times",
+        "asset_id": "100000003158861",
+        "total_shares": 12,
+        "des_facet": ["GIRAFFES", "RESEARCH"],
+        "org_facet": ["JOURNAL OF EXPERIMENTAL BIOLOGY", "SIMON FRASER UNIVERSITY"],
+        "per_facet": ["O'CONNOR, SHAWN M", "MORE, HEATHER", "FENNESSY, JULIAN", "GANSWINDT, ANDRE", "CARTER, KERRYN"],
+        "geo_facet": ["AFRICA"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Giraffes are the &ldquo;forgotten megafauna,&rdquo; said the&nbsp; executive director of the Giraffe Conservation Foundation.",
+            "copyright": "Julian Fennessy",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/science\/07JPGIRA1\/07JPGIRA1-thumbStandard-v3.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/science\/07JPGIRA1\/07JPGIRA1-thumbLarge-v3.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/science\/07JPGIRA1\/07JPGIRA1-mediumThreeByTwo210-v3.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The species is not listed as endangered, but in the past 15 years, the population has plummeted some 40 percent, to less than 80,000 from 140,000.",
+            "copyright": "Julian Fennessy",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/science\/07JPGIRA3\/07JPGIRA3-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/science\/07JPGIRA3\/07JPGIRA3-thumbLarge-v2.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/science\/07JPGIRA3\/07JPGIRA3-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/04\/your-money\/jpmorgan-chase-hack-ways-to-protect-yourself.html",
+        "column": "",
+        "section": "Your Money",
+        "byline": "By TARA SIEGEL BERNARD",
+        "title": "Ways to Protect Yourself After the JPMorgan Hacking",
+        "abstract": "Consumers can lessen the risk of financial harm to themselves from big data breaches like the one at JPMorgan Chase.",
+        "published_date": "2014-10-04",
+        "source": "The New York Times",
+        "asset_id": "100000003156317",
+        "total_shares": 13,
+        "des_facet": ["CYBERATTACKS AND HACKERS", "CONSUMER PROTECTION"],
+        "org_facet": ["JPMORGAN CHASE & COMPANY"],
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Consumers can take steps to lessen the potential damage of the cyberattack on the bank.",
+            "copyright": "Jonathan Fickies\/Bloomberg News",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/04\/business\/04CONSUMER2\/04CONSUMER2-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/04\/business\/04CONSUMER2\/04CONSUMER2-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/04\/business\/04CONSUMER2\/04CONSUMER2-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/05\/travel\/savannah-both-sides.html",
+        "column": "",
+        "section": "Travel",
+        "byline": "By RON STODGHILL",
+        "title": "Savannah, Both Sides",
+        "abstract": "Beneath its trademark Southern charm is a city with stories of slavery and civil rights struggles.",
+        "published_date": "2014-10-05",
+        "source": "The New York Times",
+        "asset_id": "100000003135254",
+        "total_shares": 14,
+        "des_facet": ["BLACKS", "RACE AND ETHNICITY"],
+        "org_facet": "",
+        "per_facet": ["EVANS, WALTER O"],
+        "geo_facet": ["SAVANNAH (GA)", "GEORGIA"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Laurel Grove South Cemetery in Savannah, a significant burial ground for local African-Americans.",
+            "copyright": "Adam Kuehl for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-top\/05-savannah-top-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-top\/05-savannah-top-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-top\/05-savannah-top-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Walter O. Evans, a Savannah-born African-American art collector. A wing at the Savannah College of Art and&nbsp;Design bears his name and houses his art.",
+            "copyright": "Adam Kuehl for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-evans\/05-savannah-evans-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-evans\/05-savannah-evans-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/travel\/05-savannah-evans\/05-savannah-evans-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/07\/arts\/geoffrey-holder-dancer-choreographer-and-man-of-flair-dies-at-84.html",
+        "column": "",
+        "section": "Arts",
+        "byline": "By JENNIFER DUNNING and WILLIAM McDONALD",
+        "title": "Geoffrey Holder, Dancer, Actor, Painter and More, Dies at 84",
+        "abstract": "Mr. Holder used his manifold talents to infuse the arts with the flavor of his native West Indies \u2014 and in television ads for \u201cthe Uncola\u201d in the 1970s and \u201980s.",
+        "published_date": "2014-10-07",
+        "source": "The New York Times",
+        "asset_id": "100000003159990",
+        "total_shares": 15,
+        "des_facet": ["DANCING", "THEATER", "ACTORS AND ACTRESSES"],
+        "org_facet": "",
+        "per_facet": ["HOLDER, GEOFFREY"],
+        "geo_facet": ["TRINIDAD AND TOBAGO"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Mr. Holder at the opening of the Broadway musical &ldquo;The Lion King&rdquo; in 1997 accompanied by his wife, the dancer Carmen de Lavallade. He made his own Broadway debut in 1954.",
+            "copyright": "Nancy Siesel\/The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/arts\/07Holder-Obit-4\/07Holder-Obit-4-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/arts\/07Holder-Obit-4\/07Holder-Obit-4-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/arts\/07Holder-Obit-4\/07Holder-Obit-4-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Mr. Holder danced on Broadway and at the Metropolitan Opera and won Tony Awards in 1975 for direction of a musical and costume design for &ldquo;The Wiz.\"",
+            "copyright": "Erin Combs\/Toronto Star, via Getty Images",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/11\/arts\/Holder-promo\/Holder-Geoffrey-ADV-OBIT-slide-JPDN-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/11\/arts\/Holder-promo\/Holder-Geoffrey-ADV-OBIT-slide-JPDN-thumbLarge-v2.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/11\/arts\/Holder-promo\/Holder-Geoffrey-ADV-OBIT-slide-JPDN-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/09\/opinion\/nicholas-kristof-the-diversity-of-islam.html",
+        "column": "Op-Ed Columnist",
+        "section": "Opinion",
+        "byline": "By NICHOLAS KRISTOF",
+        "title": "The Diversity of Islam",
+        "abstract": "Beware generalizations of Islam or any faith, which sometimes are the religious equivalent of racial profiling.&#160;",
+        "published_date": "2014-10-09",
+        "source": "The New York Times",
+        "asset_id": "100000003166033",
+        "total_shares": 16,
+        "des_facet": ["MUSLIMS AND ISLAM", "RELIGION AND BELIEF"],
+        "org_facet": ["ISLAMIC STATE IN IRAQ AND SYRIA (ISIS)"],
+        "per_facet": ["MAHER, BILL"],
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Nicholas Kristof",
+            "copyright": "Damon Winter\/The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Kristof_New\/Kristof_New-thumbStandard-v4.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Kristof_New\/Kristof_New-thumbLarge-v3.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Kristof_New\/Kristof_New-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/05\/nyregion\/community-college-students-face-a-very-long-road-to-graduation.html",
+        "column": "Degrees and Difficulty",
+        "section": "N.Y. \/ Region",
+        "byline": "By GINIA BELLAFANTE",
+        "title": "Community College Students Face a Very Long Road to Graduation",
+        "abstract": "For the 50,000 students at LaGuardia Community College, the challenges can seem insurmountable.",
+        "published_date": "2014-10-05",
+        "source": "The New York Times",
+        "asset_id": "100000003154779",
+        "total_shares": 17,
+        "des_facet": ["COLLEGES AND UNIVERSITIES", "SERIES"],
+        "org_facet": ["LAGUARDIA COMMUNITY COLLEGE"],
+        "per_facet": "",
+        "geo_facet": ["QUEENS (NYC)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Vladimir de Jesus started studying at LaGuardia Community College in Long Island City, Queens, in 2008. Although he has a high GPA, Mr. de Jesus, 23, an artist, has fewer than half the credits he needs to transfer to a four-year program.",
+            "copyright": "Jake Naughton for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05COMMUNITY1\/05COMMUNITY1-thumbStandard-v3.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05COMMUNITY1\/05COMMUNITY1-thumbLarge-v3.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05COMMUNITY1\/05COMMUNITY1-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The hallways of LaGuardia Community College are crowded with students in the mornings.",
+            "copyright": "Jake Naughton for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05COMMUNITY2\/05COMMUNITY2-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05COMMUNITY2\/05COMMUNITY2-thumbLarge-v2.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05COMMUNITY2\/05COMMUNITY2-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Mr. de Jesus playing with Svetlana, his daughter, on Roosevelt Island before bringing her back to her mother&rsquo;s house in the Bronx.",
+            "copyright": "Jake Naughton for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY6\/05jp2COMMUNITY1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY6\/05jp2COMMUNITY1-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY6\/05jp2COMMUNITY1-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Mr. de Jesus in the halls of LaGuardia Community College.",
+            "copyright": "Jake Naughton for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY1\/05jpCOMMUNITY1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY1\/05jpCOMMUNITY1-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY1\/05jpCOMMUNITY1-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Clockwise: The atrium of the college&rsquo;s E Building; a display for the Chinese Student Club in the M Building; Mr. de Jesus during a philosophy class, which is one of his favorite; taking notes on Plato.",
+            "copyright": "Jake Naughton for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY_COMBO\/05JPCOMMUNITY_COMBO-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY_COMBO\/05JPCOMMUNITY_COMBO-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY_COMBO\/05JPCOMMUNITY_COMBO-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "An endowment fund begun in 2003 at LaGuardia Community College has raised $11 million, of which $8 million has been spent.",
+            "copyright": "Jake Naughton for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY7\/05jp2COMMUNITY2-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY7\/05jp2COMMUNITY2-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/05\/nyregion\/05JPCOMMUNITY7\/05jp2COMMUNITY2-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/12\/travel\/things-to-do-in-36-hours-in-berkeley-calif.html",
+        "column": "",
+        "section": "Travel",
+        "byline": "By BONNIE TSUI",
+        "title": "36 Hours in Berkeley, Calif.",
+        "abstract": "Go for an idyllic campus stroll, take in wide-open panoramas, sample international flavors and catch some culture during a weekend in this Bay Area college town.",
+        "published_date": "2014-10-12",
+        "source": "The New York Times",
+        "asset_id": "100000003148535",
+        "total_shares": 18,
+        "des_facet": "",
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["BERKELEY (CALIF)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Lawrence Hall of Science.",
+            "copyright": "Oresti Tsonopoulos for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-science\/12-hours-science-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-science\/12-hours-science-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-science\/12-hours-science-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Chez Panisse.",
+            "copyright": "Oresti Tsonopoulos for The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-chez\/12-hours-chez-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-chez\/12-hours-chez-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/12\/travel\/12-hours-chez\/12-hours-chez-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/06\/opinion\/paul-krugman-voodoo-economics-the-next-generation.html",
+        "column": "",
+        "section": "Opinion",
+        "byline": "By PAUL KRUGMAN",
+        "title": "Voodoo Economics, the Next Generation",
+        "abstract": "That old, Reagan-era black magic is making a comeback.",
+        "published_date": "2014-10-06",
+        "source": "The New York Times",
+        "asset_id": "100000003159301",
+        "total_shares": 19,
+        "des_facet": ["TAXATION"],
+        "org_facet": ["REPUBLICAN PARTY"],
+        "per_facet": ["REAGAN, RONALD WILSON"],
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Paul Krugman",
+            "copyright": "Fred R. Conrad\/The New York Times",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }]
+        }]
+    }, {
+        "url": "http:\/\/www.nytimes.com\/2014\/10\/07\/science\/nobel-prize-medicine.html",
+        "column": "",
+        "section": "Science",
+        "byline": "By LAWRENCE K. ALTMAN",
+        "title": "Nobel Prize in Medicine Is Awarded to Three Who Discovered Brain&#8217;s &#8216;Inner GPS&#8217;",
+        "abstract": "A British-American scientist and two Norwegians were awarded the prize for identifying the cells that help animals determine where they are.",
+        "published_date": "2014-10-07",
+        "source": "The New York Times",
+        "asset_id": "100000003156450",
+        "total_shares": 20,
+        "des_facet": ["NOBEL PRIZES", "MEDICINE AND HEALTH"],
+        "org_facet": "",
+        "per_facet": ["MOSER, EDVARD I", "O'KEEFE, JOHN (1939- )", "MOSER, MAY-BRITT"],
+        "geo_facet": ["GREAT BRITAIN", "NORWAY"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Edvard I. Moser",
+            "copyright": "Agence France-Presse \u2014 Getty Images",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/world\/NOBEL-1\/NOBEL-1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/world\/NOBEL-1\/NOBEL-1-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/world\/NOBEL-1\/NOBEL-1-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "John O&rsquo;Keefe",
+            "copyright": "Agence France-Presse \u2014 Getty Images",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/world\/nobel-2\/nobel-2-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/world\/nobel-2\/nobel-2-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/world\/nobel-2\/nobel-2-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "May-Britt Moser",
+            "copyright": "Agence France-Presse \u2014 Getty Images",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/world\/NOBEL-3\/NOBEL-3-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/world\/NOBEL-3\/NOBEL-3-thumbLarge.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/07\/world\/NOBEL-3\/NOBEL-3-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }, {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "John O'Keefe, Edvard Moser, and May-Britt Moser, from left, were announced as winners of the Nobel Prize in Medicine on Monday.",
+            "copyright": "Christian Charisius,Torstein Boe\/European Pressphoto Agency",
+            "media-metadata": [{
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/06\/science\/06nobel2_now\/06nobel2_now-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/06\/science\/06nobel2_now\/06nobel2_now-thumbLarge-v2.jpg",
+                "format": "thumbLarge",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/10\/06\/science\/06nobel2_now\/06nobel2_now-mediumThreeByTwo210-v3.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }]
+        }]
+    }]
